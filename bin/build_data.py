@@ -19,7 +19,7 @@ out_file = csv.writer(
     dialect='unix',
     quoting=csv.QUOTE_MINIMAL)
 
-out_file.writerow(['domain',])
+out_file.writerow(['government-domain',])
 next(csv_in)
 for line in csv_in:
     out_file.writerow([line[0],])
