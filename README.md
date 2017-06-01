@@ -13,7 +13,9 @@ http://government-domain.discovery.openregister.org
 
 # Lists
 
-The data is being compiled from the GOV.UK list of central government websites.
+The data is being compiled from the GOV.UK list of central government websites,
+published quarterly
+[here](https://www.gov.uk/government/collections/central-government-websites.)
 
 ## [GOV.UK](lists/govuk)
 
