@@ -8,7 +8,7 @@ import sys
 import os
 import csv
 
-in_path = os.path.abspath('lists/govuk_domains.csv')
+in_path = os.path.abspath('lists/govuk/govuk_domains.csv')
 out_path = os.path.abspath('data/government-domain-data.tsv')
 
 csv_in = csv.reader(open(in_path))

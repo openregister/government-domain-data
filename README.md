@@ -10,29 +10,25 @@ a list of Government domains.
 
 http://government-domain.discovery.openregister.org
 
-## [organisation](data/government-domain-data.tsv)
-
-http://government-domain.discovery.openregister.org
-
-## [start-date](data/start-date/start-date.tsv)
-
-http://start-date.discovery.openregister.org
-
-## [end-date](data/end-date/end-date.tsv)
-
-http://end-date.discovery.openregister.org
 
 # Lists
 
 The data is being compiled from the GOV.UK list of central government websites.
 
-| List | Source |
-| :---         |    :--- |
-|[govuk](lists/govuk) |[GOV.UK Government domains](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/564729/List_of_central_government_open_websites_-_July_-_Sept_2016_CSV_Format.csv/preview)|
+## [GOV.UK](lists/govuk)
 
-# Licence
+[GOV.UK Government
+domains](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/564729/List_of_central_government_open_websites_-_July_-_Sept_2016_CSV_Format.csv/preview)
 
-The software in this project is covered by LICENSE file.
+## [Rapid7](lists/rapid7)
 
-The data is [© Crown copyright](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/)
-and available under the terms of the [Open Government 3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) licence.
+[Rapid7's](lists/rapid7) [Rapid7 Project Sonar
+(deprecated)](https://scans.io/study/sonar.fdns), via
+[blog](https://shkspr.mobi/blog/2015/11/a-complete-list-of-every-uk-government-domain-name/).
+[New](https://scans.io/study/sonar.rdns_v2) data is available.
+
+The Sonar Project by Rapid7 gathers, among other things, 'the reverse DNS
+records for all IPv4 addresses'.  That is effectively a list of domain names on
+the internet, which can be filtered for ones ending '.gov.uk'.  A blogger [did
+so](https://shkspr.mobi/blog/2015/11/a-complete-list-of-every-uk-government-domain-name/)
+in November 2015 and made the method and results available.
