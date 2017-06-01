@@ -24,7 +24,7 @@ http://end-date.discovery.openregister.org
 
 # Lists
 
-The data is being compiled from existing lists of Notifiable animal diseases found in government data:
+The data is being compiled from the GOV.UK list of central government websites.
 
 | List | Source |
 | :---         |    :--- |
