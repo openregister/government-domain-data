@@ -13,14 +13,16 @@ http://government-domain.discovery.openregister.org
 
 # Lists
 
-The data is being compiled from the GOV.UK list of central government websites,
-published quarterly
-[here](https://www.gov.uk/government/collections/central-government-websites.)
+A list is published annually on GOV.UK
+[here](https://www.gov.uk/government/publications/list-of-gov-uk-domain-names).
+The data is originally supplied by JISC, who have provided the data directly to
+as a spreadsheet (not included in this repo), which we have converted to a [tsv
+file](lists/jisc/list.tsv).
 
 ## [GOV.UK](lists/govuk)
 
 [GOV.UK Government
-domains](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/564729/List_of_central_government_open_websites_-_July_-_Sept_2016_CSV_Format.csv/preview)
+domains](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/557592/List_of_gov.uk_domains_as_of_1_Oct_2016.csv)
 
 ## [Rapid7](lists/rapid7)
 

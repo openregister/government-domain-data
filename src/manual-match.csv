@@ -1,0 +1,54 @@
+government-domain,org_original.x,org_original.y,curie,score
+aberdeencityandshire-sdpa.gov.uk,"Aberdeen City Council","The Aberdeen City Council",local-authority-sct:ABE,0.15650793650793648
+aberdeenshire.gov.uk,"Aberdeenshire Council","The Aberdeenshire Council",local-authority-sct:ABD,0.15650793650793648
+adjudicators.gov.uk,"The Adjudicator's Office","The Adjudicator’s Office",government-organisation:OT433,0.01388888888888884
+advocategeneral.gov.uk,"Office of the Advocate General","Office of the Advocate General for Scotland",government-organisation:D20,0.09375
+afbini.gov.uk,"Department of Agriculture, Environment and Rural Affairs","Department of Agriculture, Environment and Rural Affairs (Northern Ireland)",government-organisation:OT1178,0.0871794871794872
+angus.gov.uk,"Angus Council","The Angus Council",local-authority-sct:ANS,0.15535444947209665
+appealserviceni.gov.uk,"Department for Communities","Department for Communities (Northern Ireland)",government-organisation:OT1173,0.14529914529914545
+argyll-bute.gov.uk,"Argyll and Bute Council","The Argyll and Bute Council",local-authority-sct:AGB,0.1632341723874905
+attorneygeneralni.gov.uk,"The Executive Office","The Executive Office (Northern Ireland)",government-organisation:OT1179,0.15315315315315325
+ayrshire.gov.uk,"South Ayrshire Council","The South Ayrshire Council",local-authority-sct:SAY,0.16491841491841486
+blackpool.gov.uk,"Blackpool Council","Blackpool Borough Council",local-authority-eng:BPL,0.13607843137254905
+bracknell-forest.gov.uk,"Bracknell Forest Borough Council","Bracknell Forest Council",local-authority-eng:BRC,0.10416666666666674
+centralscotland-vjb.gov.uk,"Clackmannanshire Council","The Clackmannanshire Council",local-authority-sct:CLK,0.14484126984126977
+charity-commission.gov.uk,"Charity Commission","The Charity Commission",government-organisation:D98,0.12542087542087543
+childrenscommissioner.gov.uk,"The Office of the Children's Commissioner","Office of the Children's Commissioner",government-organisation:PB413,0.18408220132358055
+cityofworcester.gov.uk,"City of Worcester Council","Worcester City Council",local-authority-eng:WOC,0.10606060606060619
+cncbuildingcontrol.gov.uk,"South Norfolk Council","South Norfolk District Council",local-authority-eng:SNO,0.14761904761904776
+coronersni.gov.uk,"Northern Ireland Courts and Tribunals Service","Northern Ireland Court Service",government-organisation:EA725,0.12276422764227646
+csl.gov.uk,"Food and Environment Research Agency","The Food and Environment Research Agency",government-organisation:EA56,0.1776620370370371
+dab-vjb.gov.uk,"West Dunbartonshire Council","The West Dunbartonshire Council",local-authority-sct:WDU,0.1664675428116288
+doeni.gov.uk,"Department of the Environment","Department of the Environment (Northern Ireland)",government-organisation:D591,0.14529914529914545
+drdni.gov.uk,"Department for Infrastructure","Department for Infrastructure (Northern Ireland)",government-organisation:OT1176,0.13492063492063489
+dumgal.gov.uk,"Dumfries and Galloway Council","The Dumfries and Galloway Council",local-authority-sct:DGY,0.15931034482758633
+east-ayrshire.gov.uk,"East Ayrshire Council","The East Ayrshire Council",local-authority-sct:EAY,0.15650793650793648
+eastdunbarton.gov.uk,"East Dunbartonshire Council","The East Dunbartonshire Council",local-authority-sct:EDU,0.1664675428116288
+eastlothian.gov.uk,"East Lothian Council","The East Lothian Council",local-authority-sct:ELN,0.16388888888888875
+falkirk-council.gov.uk,"Falkirk Council","The Falkirk Council",local-authority-sct:FAL,0.15906432748538024
+fifefire.gov.uk,"Fife Council","The Fife Council",local-authority-sct:FIF,0.13888888888888884
+havering.gov.uk,"The London Borough of Havering","London Borough of Havering",local-authority-eng:HAV,0.15083199141170167
+highways.gov.uk,"The Highways Agency","Highways Agency",government-organisation:EA77,0.15906432748538024
+homesengland.gov.uk,"Homes and Communities Agency (HCA)","Homes and Communities Agency",government-organisation:PB161,0.04761904761904767
+inverclyde.gov.uk,"Inverclyde Council","The Inverclyde Council",local-authority-sct:IVC,0.1624579124579124
+lhc.gov.uk,"Housing Coporation","Housing Corporation",government-organisation:EA835,0.04532163742690076
+middlesbrough.gov.uk,"Middlesbrough Council","Middlesbrough Borough Council",local-authority-eng:MDB,0.11576354679802969
+midlothian.gov.uk,"Midlothian Council","The Midlothian Council",local-authority-sct:MLN,0.1624579124579124
+newcastle.gov.uk,"Newcastle upon Tyne City Council","Newcastle City Council",local-authority-eng:NET,0.17234848484848486
+newforestnpa.gov.uk,"New Forest National Park Agency","New Forest National Park Authority",government-organisation:OT222,0.11163820366856425
+north-ayrshire.gov.uk,"North Ayrshire Council","The North Ayrshire Council",local-authority-sct:NAY,0.16491841491841486
+northdevon.gov.uk,"North Devon Council","North Devon District Council",local-authority-eng:NDE,0.15977443609022557
+northlanarkshire.gov.uk,"North Lanarkshire Council","The North Lanarkshire Council",local-authority-sct:NLK,0.15931034482758633
+northsomerset.gov.uk,"North Somerset Council","North Somerset  Council",local-authority-eng:NSM,0.01449275362318847
+number10.gov.uk,"Prime Minister's Office","Prime Minister's Office, 10 Downing Street",government-organisation:OT532,0.15000000000000013
+paroleboard.gov.uk,"Parole Board for England and Wales","Parole Board",government-organisation:PB301,0.17948717948717952
+rbkc.gov.uk,"The Royal Borough of Kensington and Chelsea","Royal Borough of Kensington and Chelsea",local-authority-eng:KEC,0.1932870370370371
+renfrewshire.gov.uk,"Renfrewshire Council","The Renfrewshire Council",local-authority-sct:RFW,0.15555555555555567
+ribblevalley.gov.uk,"Ribblevalley Borough Council","Ribble Valley Borough Council",local-authority-eng:RIB,0.09482758620689657
+southlanarkshire.gov.uk,"South Lanarkshire Council","The South Lanarkshire Council",local-authority-sct:SLK,0.15931034482758633
+sstaffs.gov.uk,"South Staffordshire District Council","South Staffordshire Council",local-authority-eng:SST,0.12037037037037046
+stirling.gov.uk,"Stirling Council","The Stirling Council",local-authority-sct:STG,0.16041666666666676
+tsb.gov.uk,"The Technology Strategy Board","Technology Strategy Board",government-organisation:PB136,0.16597701149425292
+walesoffice.gov.uk,"Wales Office","Welsh Office",government-organisation:OT590,0.08585858585858597
+westlothian.gov.uk,"West Lothian Council","The West Lothian Council",local-authority-sct:WLN,0.16388888888888875
+wiltshire.gov.uk,"The Wiltshire Council","Wiltshire Council",local-authority-eng:WIL,0.1615312791783381
