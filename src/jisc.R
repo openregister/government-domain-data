@@ -9,12 +9,6 @@
 #   principal-local-authority (Wales) or local-authority-ni yet, and many
 #   organisations aren't among even them.
 
-2911-889-58-54
-
-length(unique(jisc$`government-domain`))
-length(unique(matched$`government-domain`))
-nrow(matched)
-
 library(tidyverse)
 library(readxl)
 library(stringi)
@@ -102,13 +96,13 @@ exact_match <- # exact match by the given organisation names
 jisc_remainder <- anti_join(jisc, exact_match, by = "org_original")
 
 exact_match_stopped <- # exact match by stop-worded organisation names
-  remainder %>%
+  jisc_remainder %>%
   inner_join(organisation, by = "organisation") %>%
   select(`government-domain`,
          org_original = org_original.x,
          curie)
 
-jisc_remainder <- anti_join(remainder, exact_match_stopped, by = "org_original")
+jisc_remainder <- anti_join(jisc_remainder, exact_match_stopped, by = "org_original")
 
 fuzzy <- # fuzzy match by stop-worded organisation names
   jisc_remainder %>%
@@ -130,6 +124,8 @@ fuzzy <- # fuzzy match by stop-worded organisation names
 write_csv(fuzzy, "fuzzy.csv")
 
 # MANUAL STEP HERE!
+
+# Then continue making the tsv
 
 manual_match <- read_csv("./manual-match.csv")
 
@@ -153,6 +149,7 @@ unmatched <-
 cat(paste0(paste(colnames(matched), collapse = "\t"), "\n"),
     file = tsv_path)
 bind_rows(matched, unmatched) %>%
+  arrange(`government-domain`) %>% 
 write.table(tsv_path,
             sep = "\t",
             row.names = FALSE,
