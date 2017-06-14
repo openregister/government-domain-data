@@ -1,4 +1,4 @@
-government-domain	organisation	start-date	end-date
+government-domain	hostname	organisation	start-date	end-date
 1001	101	"government-organisation:D16"		
 1002	aaib	"government-organisation:D9"		
 1003	aasb-ni			

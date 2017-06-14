@@ -146,9 +146,8 @@ unmatched <-
 # Write the register tsv file, using write.table instead of write_tsv in order
 # to quote the 'area' column.  Unfortunately doing so means that the headers are
 # all quoted, so the headers are written separately.
-cat(paste0(paste(colnames(matched), collapse = "\t"), "\n"),
-    file = tsv_path)
-bind_rows(matched, unmatched) %>%
+register <-
+  bind_rows(matched, unmatched) %>%
   arrange(`government-domain`) %>%
   # structure it more like https://government-organisation.alpha.openregister.org/records
   mutate(hostname = stri_replace(`government-domain`, regex = ".gov.uk$", "")) %>%
@@ -157,8 +156,13 @@ bind_rows(matched, unmatched) %>%
          hostname,
          organisation,
          `start-date`,
-         `end-date`) %>%
-write.table(tsv_path,
+         `end-date`)
+
+cat(paste0(paste(colnames(register), collapse = "\t"), "\n"),
+    file = tsv_path)
+
+write.table(register,
+            tsv_path,
             sep = "\t",
             row.names = FALSE,
             quote = 3,
