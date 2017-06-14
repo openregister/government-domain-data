@@ -149,11 +149,19 @@ unmatched <-
 cat(paste0(paste(colnames(matched), collapse = "\t"), "\n"),
     file = tsv_path)
 bind_rows(matched, unmatched) %>%
-  arrange(`government-domain`) %>% 
+  arrange(`government-domain`) %>%
+  # structure it more like https://government-organisation.alpha.openregister.org/records
+  mutate(hostname = stri_replace(`government-domain`, regex = ".gov.uk$", "")) %>%
+  mutate(`government-domain` = row_number() + 1000) %>%
+  select(`government-domain`,
+         hostname,
+         organisation,
+         `start-date`,
+         `end-date`) %>%
 write.table(tsv_path,
             sep = "\t",
             row.names = FALSE,
-            quote = 2,
+            quote = 3,
             col.names = FALSE,
             append = TRUE,
             na = "")
