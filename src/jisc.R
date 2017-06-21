@@ -49,6 +49,8 @@ jisc <-
          org_original = `Owner`) %>%
   mutate(`organisation` = clean(org_original ))
 
+write_tsv(jisc, "../lists/jisc/jisc.tsv")
+
 # Download the government-organisation register
 gov_org <-
   read_csv("https://government-organisation.register.gov.uk/records.csv?page-size=5000") %>%
