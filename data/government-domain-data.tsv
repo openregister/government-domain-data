@@ -136,7 +136,7 @@ government-domain	hostname	organisation	start-date	end-date
 1135	aylsham-tc			
 1136	ayrshire-jsu			
 1137	ayrshire-vjb			
-1138	ayrshire	local-authority-eng:SAY		
+1138	ayrshire	local-authority-sct:SAY		
 1139	babergh	local-authority-eng:BAB		
 1140	baberghmidsuffolk	local-authority-eng:BAB		
 1141	backwell-pc			
@@ -2238,7 +2238,7 @@ government-domain	hostname	organisation	start-date	end-date
 3237	shereparishcouncil			
 3238	sherfieldonloddon-pc			
 3239	sherfieldparkparishcouncil			
-3240	shetland-library	local-authority-eng:ZET		
+3240	shetland-library	local-authority-sct:ZET		
 3241	shetland	local-authority-sct:ZET		
 3242	shevingtonpc			
 3243	shifnaltowncouncil			
