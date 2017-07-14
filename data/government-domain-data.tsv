@@ -171,7 +171,7 @@ government-domain	hostname	organisation	start-date	end-date
 1170	bathnes	local-authority-eng:BAS		
 1171	baughurst-pc			
 1172	bcms	government-organisation:D7		
-1173	bcomm-scotland	governmnet-organisation:OT431		
+1173	bcomm-scotland	government-organisation:OT431		
 1174	bcomm-wales	government-organisation:DA1019		
 1175	beacons-npa			
 1176	beaconsfieldtowncouncil			
@@ -482,7 +482,7 @@ government-domain	hostname	organisation	start-date	end-date
 1481	chigwellparishcouncil			
 1482	childcarechoices	government-organisation:D25		
 1483	childrenscommissioner	government-organisation:PB413		
-1484	childrenshearingsscotland	govenment-organisation:DA1020		
+1484	childrenshearingsscotland	government-organisation:DA1020		
 1485	childtrustfund	government-organisation:D25		
 1486	chilhamparishcouncil			
 1487	chiltern	local-authority-eng:CHN		
@@ -501,7 +501,7 @@ government-domain	hostname	organisation	start-date	end-date
 1500	christchurchandeastdorset	local-authority-eng:CHC		
 1501	christleton-pc			
 1502	christowparishcouncil			
-1503	chscotland	govenment-organisation:DA1020		
+1503	chscotland	government-organisation:DA1020		
 1504	chudleigh-tc			
 1505	churchaston-pc	local-authority-eng:TFW		
 1506	churchdown-pc			
@@ -705,7 +705,7 @@ government-domain	hostname	organisation	start-date	end-date
 1704	decc	government-organisation:D11		
 1705	decymru-tan			
 1706	defra	government-organisation:D7		
-1707	delni	governmnet-organisation:OT1174		
+1707	delni	government-organisation:OT1174		
 1708	denbighshire	principal-local-authority:DEN		
 1709	denbightowncouncil	principal-local-authority:DEN		
 1710	denbyparishcouncil			
@@ -720,7 +720,7 @@ government-domain	hostname	organisation	start-date	end-date
 1719	derbyshiredales	local-authority-eng:DEB		
 1720	derbyshirepartnership	local-authority-eng:DBY		
 1721	desboroughtowncouncil			
-1722	detini	governmnet-organisation:OT1174		
+1722	detini	government-organisation:OT1174		
 1723	devizes-tc			
 1724	devon	local-authority-eng:DEV		
 1725	devonandcornwall-pcc			
@@ -752,7 +752,7 @@ government-domain	hostname	organisation	start-date	end-date
 1751	ditchling-pc			
 1752	dittishamparishcouncil			
 1753	dittonparishcouncil			
-1754	dmo	governmnet-orgaisation:EA82		
+1754	dmo	government-organisation:EA82		
 1755	doddinghurst-pc			
 1756	doeni	government-organisation:D591		
 1757	doh	government-organisation:D12		
@@ -1199,7 +1199,7 @@ government-domain	hostname	organisation	start-date	end-date
 2198	hmrc	government-organisation:D25		
 2199	hmrevenue-customs	government-organisation:D25		
 2200	hmrevenueandcustoms	government-organisation:D25		
-2201	hmso	government-orgnaisation:EA71		
+2201	hmso	government-organisation:EA71		
 2202	hmt	government-organisation:D15		
 2203	hockley-essex			
 2204	holbeton-pc			
@@ -1310,7 +1310,7 @@ government-domain	hostname	organisation	start-date	end-date
 2309	jobsandskills	government-organisation:D10		
 2310	jpscotland			
 2311	judicialappointments	government-organisation:D18		
-2312	judicialappointmentsscotland	govenment-organisation:DA1020		
+2312	judicialappointmentsscotland	government-organisation:DA1020		
 2313	judiciary-ni	government-organisation:EA725		
 2314	judiciary	government-organisation:D18		
 2315	judiciaryni			
@@ -1424,7 +1424,7 @@ government-domain	hostname	organisation	start-date	end-date
 2423	lewisham	local-authority-eng:LEW		
 2424	lg-em			
 2425	lga			
-2426	lgbc-scotland	government-orgnaisation:OT431		
+2426	lgbc-scotland	government-organisation:OT431		
 2427	lgdu-wales			
 2428	lge			
 2429	lgyh			
@@ -1438,7 +1438,7 @@ government-domain	hostname	organisation	start-date	end-date
 2437	lincolnshire	local-authority-eng:LIN		
 2438	lincsbc	local-authority-eng:ELI		
 2439	lindfieldparishcouncil			
-2440	linets	govenment-organisation:DA1020		
+2440	linets	government-organisation:DA1020		
 2441	lingfieldparishcouncil			
 2442	lintoncambridgeshire-pc			
 2443	lintonpc-herefordshire			
@@ -1485,7 +1485,7 @@ government-domain	hostname	organisation	start-date	end-date
 2484	londonlibraries	local-authority-eng:HAV		
 2485	londonprepared			
 2486	londonpsn	local-authority-eng:KTT		
-2487	londonresilience	government-orgnaisation:OT537		
+2487	londonresilience	government-organisation:OT537		
 2488	londonscb			
 2489	londontribunals			
 2490	londonworks			
@@ -1577,7 +1577,7 @@ government-domain	hostname	organisation	start-date	end-date
 2576	merseysidewda			
 2577	merseytravel			
 2578	merseytunnels			
-2579	merthyr	principle-local-authority:MTY		
+2579	merthyr	principal-local-authority:MTY		
 2580	merton	local-authority-eng:MRT		
 2581	met-office	government-organisation:EA46		
 2582	metheringham-pc			
@@ -1586,7 +1586,7 @@ government-domain	hostname	organisation	start-date	end-date
 2585	metweather	government-organisation:EA46		
 2586	mfa	government-organisation:D7		
 2587	mhra	government-organisation:EA63		
-2588	mhtscot	govenment-organisation:DA1020		
+2588	mhtscot	government-organisation:DA1020		
 2589	mhtscotland			
 2590	mi5	government-organisation:OT304		
 2591	mi6	government-organisation:OT305		
@@ -1628,7 +1628,7 @@ government-domain	hostname	organisation	start-date	end-date
 2627	monkhesledenparishcouncil			
 2628	monksherborne-pc			
 2629	monmouth			
-2630	monmouthshire	principle-local-authority:MON		
+2630	monmouthshire	principal-local-authority:MON		
 2631	moray-edunet	local-authority-sct:MRY		
 2632	moray	local-authority-sct:MRY		
 2633	morecambe			
@@ -1676,7 +1676,7 @@ government-domain	hostname	organisation	start-date	end-date
 2675	nda	government-organisation:PB197		
 2676	ne-derbyshire	local-authority-eng:NED		
 2677	ne-ifca	local-authority-eng:ERY		
-2678	neath-porttalbot	principle-local-authority:NTL		
+2678	neath-porttalbot	principal-local-authority:NTL		
 2679	neathtowncouncil			
 2680	nelincs	local-authority-eng:NEL		
 2681	nelson-mid-glam			
@@ -1709,7 +1709,7 @@ government-domain	hostname	organisation	start-date	end-date
 2708	newlandparishcouncil			
 2709	newmarket			
 2710	newmiltontowncouncil	local-authority-eng:NEW		
-2711	newport	principle-local-authority:NWP		
+2711	newport	principal-local-authority:NWP		
 2712	newportshropshire-tc			
 2713	newton-cambridge-pc			
 2714	newtonabbot-tc			
@@ -1726,7 +1726,7 @@ government-domain	hostname	organisation	start-date	end-date
 2725	nic	government-organisation:D15		
 2726	nical	government-organisation:OT1177		
 2727	nics	government-organisation:OT1177		
-2728	nicscommissioners	government-orgnaisation:PB366		
+2728	nicscommissioners	government-organisation:PB366		
 2729	nicsohs			
 2730	nicsrecruitment	government-organisation:OT1177		
 2731	nidirect			
@@ -1806,7 +1806,7 @@ government-domain	hostname	organisation	start-date	end-date
 2805	notts-fire			
 2806	nottscc	local-authority-eng:NTT		
 2807	npswales	government-organisation:DA1019		
-2808	npt	principle-local-authority:NTL		
+2808	npt	principal-local-authority:NTL		
 2809	nrscotland	government-organisation:OT1075		
 2810	nsgi	government-organisation:D17		
 2811	number10	government-organisation:OT532		
@@ -1828,15 +1828,15 @@ government-domain	hostname	organisation	start-date	end-date
 2827	odi	government-organisation:D10		
 2828	offacommunitycouncil			
 2829	officefordisability	government-organisation:D10		
-2830	official-documents	government-orgnaisation:EA71		
+2830	official-documents	government-organisation:EA71		
 2831	offords-pc			
 2832	ofgas	government-organisation:D108		
 2833	ofgem	government-organisation:D108		
 2834	ofmdfmni	government-organisation:OT1179		
-2835	ofqual	government-orgnaisation:D109		
+2835	ofqual	government-organisation:D109		
 2836	ofsted	government-organisation:D106		
 2837	oft	government-organisation:D352		
-2838	ofwat	government-orgnaisation:D240		
+2838	ofwat	government-organisation:D240		
 2839	ogc	government-organisation:D2		
 2840	oisc	government-organisation:PB263		
 2841	okefordfitzpaine-pc			
@@ -1906,7 +1906,7 @@ government-domain	hostname	organisation	start-date	end-date
 2905	peacehaventowncouncil			
 2906	peakdistrict	government-organisation:OT545		
 2907	peasedownstjohnparishcouncil			
-2908	peatlandsni	government-orgnaisation:D591		
+2908	peatlandsni	government-organisation:D591		
 2909	pegswood-pc			
 2910	peltonparishcouncil			
 2911	pembreyburryport-tc			
@@ -1943,7 +1943,7 @@ government-domain	hostname	organisation	start-date	end-date
 2942	planforbritain	government-organisation:D2		
 2943	planning-inspectorate	government-organisation:EA39		
 2944	planninginspectorate	government-organisation:EA39		
-2945	planningni	governmnet-organisation:OT1176		
+2945	planningni	government-organisation:OT1176		
 2946	planningportal	government-organisation:D4		
 2947	plymouth	local-authority-eng:PLY		
 2948	plymouthmuseum	local-authority-eng:PLY		
@@ -1989,7 +1989,7 @@ government-domain	hostname	organisation	start-date	end-date
 2988	psecni	government-organisation:OT1177		
 2989	public-standards	government-organisation:PB158		
 2990	publiccontractsscotland	government-organisation:DA1020		
-2991	publicguardian-scotland	government-orgnaisation:EA72		
+2991	publicguardian-scotland	government-organisation:EA72		
 2992	publicguardian	government-organisation:D18		
 2993	publow-with-pensford-pc			
 2994	pulboroughparishcouncil			
@@ -2065,7 +2065,7 @@ government-domain	hostname	organisation	start-date	end-date
 3064	riponcity			
 3065	rippondenparishcouncil			
 3066	riversagencyni	government-organisation:OT1178		
-3067	rmascotland	govenment-organisation:DA1020		
+3067	rmascotland	government-organisation:DA1020		
 3068	roadeparishcouncil			
 3069	roadworksscotland			
 3070	rochdale	local-authority-eng:RCH		
@@ -2151,7 +2151,7 @@ government-domain	hostname	organisation	start-date	end-date
 3150	scilly	local-authority-eng:IOS		
 3151	scillyifca			
 3152	scn	government-organisation:D16		
-3153	scords	govenment-organisation:DA1020		
+3153	scords	government-organisation:DA1020		
 3154	scot	government-organisation:DA1020		
 3155	scotborders			
 3156	scotcourt			
@@ -2172,7 +2172,7 @@ government-domain	hostname	organisation	start-date	end-date
 3171	scotlawcom	government-organisation:OT612		
 3172	scottishassessors			
 3173	scottishassessorsportal			
-3174	scottishboundaries	government-orgnaisation:OT431		
+3174	scottishboundaries	government-organisation:OT431		
 3175	scottishchildcare	government-organisation:DA1020		
 3176	scottishciviljusticecouncil			
 3177	scottishcounciltaxbands			
@@ -2262,7 +2262,7 @@ government-domain	hostname	organisation	start-date	end-date
 3261	silverendparishcouncil			
 3262	sir-benfro	principal-local-authority:PEM		
 3263	sirddinbych	principal-local-authority:DEN		
-3264	sirfynwy	principle-local-authority:MON		
+3264	sirfynwy	principal-local-authority:MON		
 3265	sirgaerfyrddin	principal-local-authority:CMN		
 3266	sirgar	principal-local-authority:CMN		
 3267	siryfflint	principal-local-authority:FLN		
@@ -2524,7 +2524,7 @@ government-domain	hostname	organisation	start-date	end-date
 3523	teignbridge	local-authority-eng:TEI		
 3524	teignmouth-devon			
 3525	telford	local-authority-eng:TFW		
-3526	tellmescotland	govenment-organisation:DA1020		
+3526	tellmescotland	government-organisation:DA1020		
 3527	telscombetowncouncil			
 3528	tendringdc	local-authority-eng:TEN		
 3529	tenterdentowncouncil			
@@ -2903,7 +2903,7 @@ government-domain	hostname	organisation	start-date	end-date
 3902	ygwasanaethpensiwn	government-organisation:D10		
 3903	yjani	government-organisation:D19		
 3904	yjb	government-organisation:D18		
-3905	ynysmon	principle-local-authority:AGY		
+3905	ynysmon	principal-local-authority:AGY		
 3906	york	local-authority-eng:YOR		
 3907	yorkconsort	internal-drainage-board:IDB32		
 3908	yorkshirelca			
