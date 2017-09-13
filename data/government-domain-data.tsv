@@ -47,7 +47,7 @@ government-domain	hostname	organisation	start-date	end-date
 1046	aldercarandlangleymillparishcouncil			
 1047	alderholtparishcouncil			
 1048	alderleyedge-pc			
-1049	alderminster-pc	local-authority-eng:STR		
+1049	alderminster-pc			
 1050	aldwickparishcouncil			
 1051	alg			
 1052	alkboroughwalcotparishcouncil			
@@ -1237,7 +1237,7 @@ government-domain	hostname	organisation	start-date	end-date
 2236	hscic	government-organisation:OT538		
 2237	hse	government-organisation:PB207		
 2238	hseni			
-2239	hsl			
+2239	hsl	government-organisation:PB207		
 2240	hta	government-organisation:PB254		
 2241	hucclecotepc			
 2242	hucklow-pc			
@@ -1472,7 +1472,7 @@ government-domain	hostname	organisation	start-date	end-date
 2471	llangollentowncouncil			
 2472	llantwitmajortowncouncil			
 2473	LlwchwrTownCouncil			
-2474	llwybrarfordircymru			
+2474	llwybrarfordircymru	government-organisation:OT1103		
 2475	lma	local-authority-eng:LND		
 2476	local			
 2477	localdirect	government-organisation:D2		
@@ -1929,7 +1929,7 @@ government-domain	hostname	organisation	start-date	end-date
 2928	pershore-tc			
 2929	PershoreTownCouncil			
 2930	pertonparishcouncil			
-2931	pesticides	government-organisation:EA56		
+2931	pesticides	government-organisation:PB207		
 2932	peterborough	local-authority-eng:PTE		
 2933	peterlee			
 2934	petersfield-tc			
@@ -2687,7 +2687,7 @@ government-domain	hostname	organisation	start-date	end-date
 3686	wakefield			
 3687	wales	government-organisation:DA1019		
 3688	walescarbonfootprint	government-organisation:DA1019		
-3689	walescoastpath			
+3689	walescoastpath	government-organisation:OT1103		
 3690	walesfire	government-organisation:DA1019		
 3691	walesoffice	government-organisation:OT590		
 3692	walesprobationtrust			
@@ -2769,7 +2769,7 @@ government-domain	hostname	organisation	start-date	end-date
 3768	westmidsfire			
 3769	westminster	local-authority-eng:WSM		
 3770	westmoors-pc			
-3771	westofengland-ca	local-authority-eng:BST		
+3771	westofengland-ca	local-authority-eng:BAS		
 3772	westonbywellandparishcouncil			
 3773	westononthegreen-pc			
 3774	westoxon	local-authority-eng:WOX		
