@@ -1,15 +1,15 @@
 government-domain	hostname	organisation	start-date	end-date
-7448	volcomgrantsni	government-organisation:OT1176	2003-02-12	NA
-6539	proni	government-organisation:OT1176	2002-10-09	NA
-4762	dsdni	government-organisation:OT1175	2005-04-18	NA
-4637	dcalni	government-organisation:OT1174	2006-08-18	NA
-15597	boundarycommissionengland	local-authority-eng:BMH	2014-11-05	NA
-15644	acoba	government-organisation:PB336	2014-11-27	NA
-4710	digitv	NA	2017-09-06	2017-10-04
-17597	denhambucks-pc	NA	2017-09-19	NA
-17601	sturminstermarshall-pc	NA	2017-09-25	NA
-17609	smallbusinesscommissioner	NA	2017-09-28	NA
-17613	cjx	NA	2017-10-03	NA
-4226	capitalforenterprise	NA	2005-08-17	2017-10-04
+7448	volcomgrantsni	government-organisation:OT1173	2003-02-12	
+6539	proni	government-organisation:OT1173	2002-10-09	
+4762	dsdni	government-organisation:OT1173	2005-04-18	
+4637	dcalni	government-organisation:OT1173	2006-08-18	
+15597	boundarycommissionengland	government-organisation:PB337	2014-11-05	
+15644	acoba	government-organisation:D2	2014-11-27	
+4710	digitv		2017-09-06	2017-10-04
+17597	denhambucks-pc		2017-09-19	
+17601	sturminstermarshall-pc		2017-09-25	
+17609	smallbusinesscommissioner		2017-09-28	
+17613	cjx		2017-10-03	
+4226	capitalforenterprise		2005-08-17	2017-10-04
 6157	nisranet	government-organisation:EA701	2005-02-10	2017-10-04
 6970	southgloucestershire	local-authority-eng:SGC	2001-10-17	2017-10-04

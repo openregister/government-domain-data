@@ -139,4 +139,4 @@ list_new %>%
 
 bind_rows(map_correction, add1, add2, delete1) %>%
   print(n = Inf) %>%
-  write_tsv(here("lists", "append-entries-2017-10-05.tsv"))
+  write_tsv(here("lists", "append-entries-2017-10-05.tsv"), na = "")

@@ -41,24 +41,20 @@ curie_2017_07_14 %>%
 # lists/map-correction.tsv.
 
 map_correction <-
-  rr_records("government-domain") %>%
-  filter(hostname %in% c("dcalni", "dsdni", "proni", "volcomgrantsni", "acoba", "boundarycommissionengland")) %>%
-  select(`government-domain`, hostname, organisation, `start-date`, `end-date`) %>%
+  read_tsv(here("lists", "map-correction.tsv")) %>%
   mutate(`start-date` = strftime(`start-date`, "%Y-%m-%d"),
-         `end-date` = strftime(`end-date`, "%Y-%m-%d")) %>%
-  print(n = Inf) %>%
-  write_tsv(here("lists", "map-correction.tsv"), na = "")
+         `end-date` = strftime(`end-date`, "%Y-%m-%d"))
 
+map_correction
 # # A tibble: 6 x 5
 #   `government-domain`                  hostname                   organisation `start-date` `end-date`
-#                 <int>                     <chr>                          <chr>       <date>      <chr>
-# 1                7448            volcomgrantsni government-organisation:OT1176   2003-02-12       <NA>
-# 2                6539                     proni government-organisation:OT1176   2002-10-09       <NA>
-# 3                4762                     dsdni government-organisation:OT1175   2005-04-18       <NA>
-# 4                4637                    dcalni government-organisation:OT1174   2006-08-18       <NA>
-# 5               15597 boundarycommissionengland        local-authority-eng:BMH   2014-11-05       <NA>
-# 6               15644                     acoba  government-organisation:PB336   2014-11-27       <NA>
-
+#                 <int>                     <chr>                          <chr>        <chr>      <chr>
+# 1                7448            volcomgrantsni government-organisation:OT1173   2003-02-12       <NA>
+# 2                6539                     proni government-organisation:OT1173   2002-10-09       <NA>
+# 3                4762                     dsdni government-organisation:OT1173   2005-04-18       <NA>
+# 4                4637                    dcalni government-organisation:OT1173   2006-08-18       <NA>
+# 5               15597 boundarycommissionengland  government-organisation:PB337   2014-11-05       <NA>
+# 6               15644                     acoba     government-organisation:D2   2014-11-27       <NA>
 
 # Build the CURIE map without those errors (this time include unmapped owners)
 curie_map_2017_07_14 <-
